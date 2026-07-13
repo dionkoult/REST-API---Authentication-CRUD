@@ -2,13 +2,13 @@
   "name": "intro-to-backend",
   "version": "1.0.0",
   "description": "backend intro project",
-  "homepage": "https://github.com/dionkoult/REST-API---Authentication-CRUD#readme",
+  "homepage": "https://github.com/dionkoult/rest-api-authentication-crud#readme",
   "bugs": {
-    "url": "https://github.com/dionkoult/REST-API---Authentication-CRUD/issues"
+    "url": "https://github.com/dionkoult/rest-api-authentication-crud/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dionkoult/REST-API---Authentication-CRUD.git"
+    "url": "git+https://github.com/dionkoult/rest-api-authentication-crud.git"
   },
   "license": "ISC",
   "author": "Dion",
