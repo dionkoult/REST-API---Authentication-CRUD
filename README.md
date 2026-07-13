@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a backend REST API built with Node.js, Express, and MongoDB.
+This project is a backend REST API built with Node.js, Express.js, and MongoDB.
 
 It includes:
 
