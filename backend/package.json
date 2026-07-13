@@ -1,7 +1,7 @@
 {
-  "name": "intro-to-backend",
+  "name": "rest-api-authentication-crud",
   "version": "1.0.0",
-  "description": "backend intro project",
+  "description": "backend project",
   "homepage": "https://github.com/dionkoult/rest-api-authentication-crud#readme",
   "bugs": {
     "url": "https://github.com/dionkoult/rest-api-authentication-crud/issues"
